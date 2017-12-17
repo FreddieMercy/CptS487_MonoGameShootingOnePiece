@@ -44,7 +44,7 @@ namespace TeamWowGame
             Components.Add(GameEngine.menuComponent);
             base.Initialize();
 
-           
+
         }
         /// <summary>
         /// LoadContent will be called once per game and is the place to load
@@ -87,7 +87,7 @@ namespace TeamWowGame
             Images.butterfly = Content.Load<Texture2D>(_butterfly);
             Images.MidBossCompanion = Content.Load<Texture2D>(_midBossCompanion);
             Images.lifeStar = Content.Load<Texture2D>(_lifeStar);
-            
+
             Sounds.MyBullet = Content.Load<SoundEffect>(_Shot);
             Sounds.BGM = Content.Load<Song>(_BGM);
 
@@ -138,7 +138,7 @@ namespace TeamWowGame
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Update(GameTime gameTime)
         {
-            if (GameEngine.ExitGame|| GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape) || (Keyboard.GetState().IsKeyDown(Keys.F4) && (Keyboard.GetState().IsKeyDown(Keys.LeftAlt) || Keyboard.GetState().IsKeyDown(Keys.RightAlt))))
+            if (GameEngine.ExitGame || GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape) || (Keyboard.GetState().IsKeyDown(Keys.F4) && (Keyboard.GetState().IsKeyDown(Keys.LeftAlt) || Keyboard.GetState().IsKeyDown(Keys.RightAlt))))
             {
                 //generateWaves.Dispose();
                 Exit();
@@ -194,14 +194,14 @@ namespace TeamWowGame
         protected override void Draw(GameTime gameTime)
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
-            
+
             GameEngine.spriteBatch.Begin();//Start Drawing
             GameEngine.spriteBatch.Draw(Images.BG, new Rectangle(0, 0, GameEngine.graphic.PreferredBackBufferWidth, GameEngine.graphic.PreferredBackBufferHeight), Color.White); //Drawing Background
-            
+
             #region Deploy Text (fonts). Haven't started yet
             //GameEngine.spriteBatch.DrawString(EnemyLocater, "Enemy",Vector2.Zero, Color.White);
             //GameEngine.spriteBatch.DrawString(EnemyName, "Enemy Name", Vector2.Zero, Color.White);
-                   
+
             #endregion
 
             base.Draw(gameTime);
@@ -217,7 +217,7 @@ namespace TeamWowGame
             GameEngine.graphic.PreferredBackBufferWidth = GraphicsAdapter.DefaultAdapter.CurrentDisplayMode.Width;  // set this value to the desired width of your window
             GameEngine.graphic.PreferredBackBufferHeight = GraphicsAdapter.DefaultAdapter.CurrentDisplayMode.Height;   // set this value to the desired height of your window
 
-           // GameEngine.graphic.IsFullScreen = true; //comment it out if debugging
+            GameEngine.graphic.IsFullScreen = true; //comment it out if debugging
 
             GameEngine.graphic.ApplyChanges();
         }
