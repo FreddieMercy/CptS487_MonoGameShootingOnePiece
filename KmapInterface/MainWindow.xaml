@@ -1,0 +1,121 @@
+﻿<Window x:Class="KmapInterface.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KmapInterface"
+        mc:Ignorable="d"
+        Title="Key Configuration Window" Height="950" Width="1600" Loaded="KmapUI_Loaded" Closing="MainWindow_OnClosing" x:Name="KmapUI">
+
+    <Window.Resources>
+        <Style x:Key="ScaleStyle" TargetType="Button">
+            <Setter Property="FontSize" Value="60" />
+            <Setter Property="RenderTransformOrigin" Value="0.5,0.5"/>
+        </Style>
+
+        <Style TargetType="{x:Type Control}" x:Key="baseStyle">
+            <Setter Property="FontSize" Value="30" />
+        </Style>
+
+        <Style TargetType="{x:Type TextBlock}" x:Key="tblockStyle">
+            <Setter Property="FontSize" Value="30" />
+        </Style>
+        
+        <Style TargetType="{x:Type Button}" BasedOn="{StaticResource ScaleStyle}"></Style>
+        <Style TargetType="{x:Type TextBox}" BasedOn="{StaticResource baseStyle}"></Style>
+        <Style TargetType="{x:Type TextBlock}" BasedOn="{StaticResource tblockStyle}"></Style> 
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="3*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0"  x:Name="KeyBindings" local:GridHelpers.RowCount="{Binding RowCount}"  local:GridHelpers.ColumnCount="2" />
+        <Grid Grid.Row="1">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+
+                <Grid x:Name="_keyBoard" Grid.Row="0" Margin="{Binding margin}">
+                    <Grid.RowDefinitions>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition Height="{Binding margin}"></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition Height="{Binding margin}"></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition Height="{Binding margin}"></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+
+                    <Grid Grid.Row="0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="auto"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <ItemsControl x:Name="_Keyboard_FirstRow" Grid.Column="0" ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+                            <ItemsControl.ItemsPanel>
+                                <ItemsPanelTemplate>
+                                    <WrapPanel IsItemsHost="True" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+                                </ItemsPanelTemplate>
+                            </ItemsControl.ItemsPanel>
+
+                        </ItemsControl>
+                    </Grid>
+                    <Grid Grid.Row="1"/>
+                    <Grid Grid.Row="2">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="auto"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+
+                        <ItemsControl x:Name="_Keyboard_SecondRow" Grid.Column="0" ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+                            <ItemsControl.ItemsPanel>
+                                <ItemsPanelTemplate>
+                                    <WrapPanel IsItemsHost="True" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  FlowDirection="RightToLeft"/>
+                                </ItemsPanelTemplate>
+                            </ItemsControl.ItemsPanel>
+                        </ItemsControl>
+                    </Grid>
+                    <Grid Grid.Row="3"/>
+                    <Grid Grid.Row="4">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition Width="auto"></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+
+                        <Button x:Name="_Clear" Margin="{Binding margin_right}" Grid.Column="0" Content="Clear" Click="_Clear_Click"></Button>
+                        <ItemsControl x:Name="_Keyboard_ThirdRow" Grid.Column="1" ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+                            <ItemsControl.ItemsPanel>
+                                <ItemsPanelTemplate>
+                                    <WrapPanel IsItemsHost="True" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+                                </ItemsPanelTemplate>
+                            </ItemsControl.ItemsPanel>
+                        </ItemsControl>
+                        <Button x:Name="Space_Btn" Grid.Column="2" Content="Space" Click="Space_Button_Click"></Button>
+                    </Grid>
+                    <Grid Grid.Row="5"/>
+                    <Grid Grid.Row="6">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition></ColumnDefinition>
+                            <ColumnDefinition Width="auto"></ColumnDefinition>
+                            <ColumnDefinition></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+
+                        <Button x:Name="_Shift" Margin="{Binding margin_right}" Grid.Column="0" Content="Shift" Click="_Shift_Click"></Button>
+                        <ItemsControl x:Name="_Keyboard_ForthRow" Grid.Column="1" ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+                            <ItemsControl.ItemsPanel>
+                                <ItemsPanelTemplate>
+                                    <WrapPanel IsItemsHost="True" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"/>
+                                </ItemsPanelTemplate>
+                            </ItemsControl.ItemsPanel>
+                        </ItemsControl>
+                        <Button x:Name="Enter_btn" Grid.Column="2" Content="Submit" Click="Submit"></Button>
+                    </Grid>
+
+                </Grid>
+
+            </Grid>
+        </Grid>
+        <!--<Button Grid.Row="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Click="Submit">Submit</Button>-->
+    </Grid>
+</Window>

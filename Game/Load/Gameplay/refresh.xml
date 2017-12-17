@@ -1,0 +1,2264 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<waves>
+  <!--wave begin-->
+  <wave id="1">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>0</startTime>
+    <endTime>.1</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>200</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="2">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>.1</startTime>
+    <endTime>.2</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>300</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="3">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>.2</startTime>
+    <endTime>.3</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>400</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="4">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>.3</startTime>
+    <endTime>.4</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>500</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="5">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>.4</startTime>
+    <endTime>.5</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>600</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="6">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>.5</startTime>
+    <endTime>.6</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>700</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="7">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>.6</startTime>
+    <endTime>.7</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>650</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="8">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>.7</startTime>
+    <endTime>.8</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>750</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="9">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>.8</startTime>
+    <endTime>.9</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>850</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="10">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>.9</startTime>
+    <endTime>1</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>950</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+  
+  <wave id="11">
+    <Amount>4</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>1</Velocity_X>
+    <Velocity_Y>1</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toRight</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>8</startTime>
+    <endTime>9</endTime>
+    <timeInterval>0.2</timeInterval>
+    <!--positon-->
+    <position_X>100</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="12">
+    <Amount>5</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>1</Velocity_X>
+    <Velocity_Y>1</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toLeft</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>10</startTime>
+    <endTime>11</endTime>
+    <timeInterval>0.2</timeInterval>
+    <!--positon-->
+    <position_X>1100</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="13">
+    <Amount>5</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>1</Velocity_X>
+    <Velocity_Y>1</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toLeft</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>12</startTime>
+    <endTime>13</endTime>
+    <timeInterval>0.2</timeInterval>
+    <!--positon-->
+    <position_X>1100</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="14">
+    <Amount>5</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>1</Velocity_X>
+    <Velocity_Y>1</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toRight</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>14</startTime>
+    <endTime>15</endTime>
+    <timeInterval>0.2</timeInterval>
+    <!--positon-->
+    <position_X>100</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="15">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>16</startTime>
+    <endTime>16.3</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>200</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="16">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>16.3</startTime>
+    <endTime>16.6</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>250</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="17">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>16.6</startTime>
+    <endTime>16.9</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>300</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="18">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>16.9</startTime>
+    <endTime>17.2</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>350</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="19">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>17.2</startTime>
+    <endTime>17.5</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>400</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="20">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>17.5</startTime>
+    <endTime>17.8</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>450</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="21">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>17.8</startTime>
+    <endTime>18.2</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>500</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="22">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>18.2</startTime>
+    <endTime>18.5</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>550</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="23">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>18.5</startTime>
+    <endTime>18.8</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>600</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="24">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>18.8</startTime>
+    <endTime>19.1</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>650</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="25">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>19.1</startTime>
+    <endTime>19.4</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>700</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="26">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>19.4</startTime>
+    <endTime>19.7</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>750</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="27">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>19.7</startTime>
+    <endTime>20</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>800</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="28">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>20</startTime>
+    <endTime>20.3</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>850</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="29">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>20.3</startTime>
+    <endTime>20.6</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>600</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="29">
+    <Amount>1</Amount>
+    <Type>D</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>Butterfly</Behavior>
+    <!--Live-->
+    <Live>500</Live>
+    <!--Time-->
+    <startTime>21</startTime>
+    <endTime>21.1</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>1300</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="30">
+    <Amount>5</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toLeft</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>27</startTime>
+    <endTime>28</endTime>
+    <timeInterval>0.2</timeInterval>
+    <!--positon-->
+    <position_X>200</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="31">
+    <Amount>5</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toRight</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>30</startTime>
+    <endTime>31</endTime>
+    <timeInterval>0.2</timeInterval>
+    <!--positon-->
+    <position_X>200</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="32">
+    <Amount>5</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toLeft</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>29.9</startTime>
+    <endTime>30.9</endTime>
+    <timeInterval>0.2</timeInterval>
+    <!--positon-->
+    <position_X>1300</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+  
+  <wave id="29">
+    <Amount>1</Amount>
+    <Type>D</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>Butterfly</Behavior>
+    <!--Live-->
+    <Live>500</Live>
+    <!--Time-->
+    <startTime>32</startTime>
+    <endTime>32.1</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>900</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+  
+  <wave id="33">
+    <Amount>5</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toRight</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>33</startTime>
+    <endTime>34</endTime>
+    <timeInterval>0.2</timeInterval>
+    <!--positon-->
+    <position_X>500</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="34">
+    <Amount>5</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toLeft</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>33.1</startTime>
+    <endTime>34.1</endTime>
+    <timeInterval>0.2</timeInterval>
+    <!--positon-->
+    <position_X>800</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="35">
+    <Amount>5</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toRight</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>36</startTime>
+    <endTime>37</endTime>
+    <timeInterval>0.2</timeInterval>
+    <!--positon-->
+    <position_X>700</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="36">
+    <Amount>5</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toRight</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>39</startTime>
+    <endTime>41</endTime>
+    <timeInterval>0.2</timeInterval>
+    <!--positon-->
+    <position_X>300</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="29">
+    <Amount>1</Amount>
+    <Type>D</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>Butterfly</Behavior>
+    <!--Live-->
+    <Live>500</Live>
+    <!--Time-->
+    <startTime>42</startTime>
+    <endTime>42.1</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>450</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="37">
+    <Amount>5</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toRight</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>43</startTime>
+    <endTime>44</endTime>
+    <timeInterval>0.2</timeInterval>
+    <!--positon-->
+    <position_X>900</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="38">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>46</startTime>
+    <endTime>46.1</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>750</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="39">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>46.1</startTime>
+    <endTime>46.2</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>700</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="40">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>46.2</startTime>
+    <endTime>46.3</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>800</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="41">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>46.7</startTime>
+    <endTime>46.8</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>700</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="42">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>46.9</startTime>
+    <endTime>47</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>800</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="43">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>47</startTime>
+    <endTime>47.1</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>650</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="44">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>47.1</startTime>
+    <endTime>47.2</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>850</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="45">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>47.6</startTime>
+    <endTime>47.7</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>850</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="46">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>47.7</startTime>
+    <endTime>47.8</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>650</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="47">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>47.8</startTime>
+    <endTime>47.9</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>600</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="48">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>47.9</startTime>
+    <endTime>48</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>900</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="49">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>48.4</startTime>
+    <endTime>48.5</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>900</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="50">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>48.5</startTime>
+    <endTime>48.6</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>600</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="51">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>48.6</startTime>
+    <endTime>48.7</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>550</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="52">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>48.7</startTime>
+    <endTime>48.8</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>950</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="53">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>49.2</startTime>
+    <endTime>49.3</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>950</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="54">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>49.3</startTime>
+    <endTime>49.4</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>550</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="55">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>49.4</startTime>
+    <endTime>49.5</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>500</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="56">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>49.5</startTime>
+    <endTime>49.6</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>1000</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="57">
+    <Amount>1</Amount>
+    <Type>B</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>MidBoss</Behavior>
+    <!--Live-->
+    <Live>5000</Live>
+    <!--Time-->
+    <startTime>55</startTime>
+    <endTime>55.1</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>750</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="29">
+    <Amount>1</Amount>
+    <Type>D</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>Butterfly</Behavior>
+    <!--Live-->
+    <Live>500</Live>
+    <!--Time-->
+    <startTime>70</startTime>
+    <endTime>70.1</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>450</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+  
+  <wave id="29">
+    <Amount>1</Amount>
+    <Type>D</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>Butterfly</Behavior>
+    <!--Live-->
+    <Live>500</Live>
+    <!--Time-->
+    <startTime>70.1</startTime>
+    <endTime>70.2</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>700</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+  
+  <wave id="58">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toDown</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>75</startTime>
+    <endTime>75.1</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>300</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="59">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toDown</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>75.3</startTime>
+    <endTime>75.4</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>500</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+  <wave id="60">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toDown</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>75.4</startTime>
+    <endTime>75.5</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>100</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="61">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toDown</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>75.6</startTime>
+    <endTime>75.7</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>850</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="62">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toDown</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>75.8</startTime>
+    <endTime>75.9</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>660</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="63">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toDown</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>76.1</startTime>
+    <endTime>76.2</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>430</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="64">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toDown</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>76.4</startTime>
+    <endTime>76.5</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>720</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="65">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toDown</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>76.7</startTime>
+    <endTime>76.8</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>1300</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="66">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toDown</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>76.9</startTime>
+    <endTime>77</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>330</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="67">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toDown</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>77.1</startTime>
+    <endTime>77.2</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>280</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="68">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toDown</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>77.3</startTime>
+    <endTime>77.4</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>1100</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="69">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toDown</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>77.6</startTime>
+    <endTime>77.7</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>550</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="70">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toDown</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>77.9</startTime>
+    <endTime>78</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>420</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="71">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toDown</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>78.1</startTime>
+    <endTime>78.2</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>770</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="72">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toDown</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>78.3</startTime>
+    <endTime>78.4</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>610</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+  
+  <wave id="29">
+    <Amount>1</Amount>
+    <Type>D</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>Butterfly</Behavior>
+    <!--Live-->
+    <Live>500</Live>
+    <!--Time-->
+    <startTime>78.4</startTime>
+    <endTime>78.5</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>450</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+  
+  <wave id="29">
+    <Amount>1</Amount>
+    <Type>D</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>Butterfly</Behavior>
+    <!--Live-->
+    <Live>500</Live>
+    <!--Time-->
+    <startTime>78.5</startTime>
+    <endTime>78.6</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>700</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+  
+  <wave id="73">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toDown</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>78.8</startTime>
+    <endTime>78.9</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>400</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="74">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toDown</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>79</startTime>
+    <endTime>79.1</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>50</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="75">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toDown</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>79.2</startTime>
+    <endTime>79.3</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>1050</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="76">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toDown</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>79.7</startTime>
+    <endTime>79.8</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>880</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="77">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toDown</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>80</startTime>
+    <endTime>80.1</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>470</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="78">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toDown</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>80.5</startTime>
+    <endTime>80.6</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>850</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="79">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toDown</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>81</startTime>
+    <endTime>81.1</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>240</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="80">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toDown</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>81.6</startTime>
+    <endTime>81.7</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>330</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="81">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toDown</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>82</startTime>
+    <endTime>82.1</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>500</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="82">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toDown</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>82.4</startTime>
+    <endTime>82.5</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>150</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="83">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toDown</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>82.8</startTime>
+    <endTime>82.9</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>720</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="84">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toDown</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>83.4</startTime>
+    <endTime>83.5</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>300</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="85">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toDown</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>83.8</startTime>
+    <endTime>83.9</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>600</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+
+  <wave id="86">
+    <Amount>5</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toLeft</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>85</startTime>
+    <endTime>86</endTime>
+    <timeInterval>0.2</timeInterval>
+    <!--positon-->
+    <position_X>800</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <!--top 20-->
+  <wave id="87">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>88</startTime>
+    <endTime>88.1</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>750</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="88">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>88.1</startTime>
+    <endTime>88.2</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>650</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="89">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>88.2</startTime>
+    <endTime>88.3</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>850</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="90">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>88.7</startTime>
+    <endTime>88.8</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>650</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="91">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>88.8</startTime>
+    <endTime>88.9</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>850</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="92">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>88.9</startTime>
+    <endTime>89</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>550</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="93">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>89</startTime>
+    <endTime>89.1</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>950</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="94">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>89.5</startTime>
+    <endTime>89.6</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>550</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="95">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>89.7</startTime>
+    <endTime>89.8</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>950</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="96">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>89.9</startTime>
+    <endTime>90</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>450</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="97">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>90</startTime>
+    <endTime>90.1</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>1050</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="98">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>90.5</startTime>
+    <endTime>90.6</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>1050</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="99">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>90.6</startTime>
+    <endTime>90.7</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>450</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="100">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>90.7</startTime>
+    <endTime>90.8</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>350</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="101">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>90.8</startTime>
+    <endTime>90.9</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>1100</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="102">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>91.3</startTime>
+    <endTime>91.4</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>1100</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="103">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>91.4</startTime>
+    <endTime>91.5</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>350</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="104">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>91.5</startTime>
+    <endTime>91.6</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>250</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="105">
+    <Amount>1</Amount>
+    <Type>A</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>toTop</Behavior>
+    <!--Live-->
+    <Live>1</Live>
+    <!--Time-->
+    <startTime>91.6</startTime>
+    <endTime>91.7</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>1150</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+
+  <wave id="106">
+    <Amount>1</Amount>
+    <Type>C</Type>
+    <Size>1</Size>
+    <!--Velocity-->
+    <Velocity_X>0</Velocity_X>
+    <Velocity_Y>0</Velocity_Y>
+    <!--Behavior-->
+    <Behavior>FinalBoss</Behavior>
+    <!--Live-->
+    <Live>20000</Live>
+    <!--Time-->
+    <startTime>95</startTime>
+    <endTime>95.1</endTime>
+    <timeInterval>0.1</timeInterval>
+    <!--positon-->
+    <position_X>750</position_X>
+    <position_Y>0</position_Y>
+  </wave>
+</waves>

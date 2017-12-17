@@ -1,0 +1,133 @@
+
+#Timeline:
+* Starting Stage *
+00:00 start interface, Loaded all elements
+00:01 select from existing options (Game Start/Extra Start/Practice Start/Replay/Player Data/Music Room/Option/Quit)
+	- When Hover Begin: Change Style to "Sel"
+	- When Hover Ended: Change Style to "Default"
+00:02 Change Backgound elements, fetch all saved data of "Replay"
+00:03 if selected from the existing data, fetch the list of "Stages"
+00:04 Select the "Starting Stage"
+00:05 loading page
+00:05 Play the selcted "Start Stage" , background elements & effects changed
+00:06 Display: Plaer, Difficalty, background elements | Hi Score, Score, Player, Power
+00:07 Display at bottom: status (050000, BGM name flowed from right to left)
+* Regular Stage *
+0:05 - game start at "EASY" mode, background music start.
+0:07 - Notice player that game about to start (by flashing the player controlled character)
+0:08 - 9 small monsters loaded horizontally, from left to right, in pre-designed curved path (distinguishing by color: blue, red, and green).
+0:10 - user controlled the player character to move left and then move right back to where it started at
+0:11 - 2 player character to move to the Up and stay, Game Area displayed ChapterName Vertially
+0:12 - 3 player character moved back to origin, Game Area Display Stage# & StageName
+0:13 - all small monsters left in the reversed way how they came out.
+0:16 - 4 small monsters (3 reds, 1 blue) fly in from top left, fly out through right.
+0:18 - 5 small monsters (2 reds, 2 blues, 1 green) fly in from top right, fly out through left.
+0:20 - one big monster fly in from top and firing bullets while slowly moving toward left.
+     - fire 4 times, each time fire 3 waves of bullets (1 bullet, 2 bullets, and 3 bullets), toward player's location.
+0:23 - new small monster keep fly in from top right and fly out through left.
+0:25 - new small monster keep fly in from top left and fly out through right.
+0:26 - another big monster fly in from top left and firing bullets while moving toward right.
+     - same firing pattern with 0:20.
+0:31 - small monsters keep coming from top (left and right) and leave through opposite side of the screen.
+0:41 - big monster fly in from top right and leave through left
+     - same firing pattern with 0:20
+0:43 - a line of small monsters fly in from top and fly out evenly through top left and top right after firing bullet.
+     - each small monster fires one bullet toward player's location.
+* Mid Boss Fight *
+     - 26 seconds timer counting down.
+0:48 - mid boss fly in from top, stay on top right position and start firing.
+     - 3 waves, 6 bullets each wave, bullets fire from mid boss's location and downward and dispersing, low speed.
+0:51 - mid boss moves to mid of top spot and firing
+     - 3 waves, 16 bullets each wave, firing from its location and evenly dispersing outward around mid boss.
+0:53 - mid boss moves to left of top spot and firing
+     - same firing pattern with 0:48.
+0:54 - mid boss moving back to 0:48 spot, and firing during the movement.
+     - same firing pattern with 0:51.
+0:56 - repeating the same pattern with 0:48 to 0:56.
+1:03 - 10 seconds timer counting down with sound effect.
+1:08 - two big monster fly in from two sides of top and firing.
+     - same firing pattern with 0:20.
+1:11 - lots of small monster fly in from top, and moving downward.
+1:15 - mid boss fight ends. Two new big monsters fly in and firing pattern is same as 0:20.
+* Regular Stage *
+1:17 - repeating 0:41 to 0:47
+* Final Boss Fight *
+1:28 - dialogue before the final boss fight.(animation)
+1:30 - final boss appear
+1:36 - the fight starts, final boss starts firing. 45 seconds timer counting down.
+     - red bullets are spawned by two out-spiraling “spawning points” which fires bullets for about one second.
+     - red bullets are also sniping bullets.
+1:39 - final boss moves to another spot and firing blue bullets.
+     - spread in a circle first, and then starts to move in an out-spiraling trajectory.
+1:40 - final boss repeating the pattern (1:36 to 1:39), however, the final boss's movement is random.
+     - firing pattern keep switching between red and blue bullets.
+2:10 - 10 seconds timer counting down with sound effect.
+2:22 - end first attack, second attack start. Another 45 seconds timer start counting down.
+     - forming a circle of bullets (blue, red) around the final boss, and then spinning while moving outward.
+     - blue bullets spin anti-clockwise, red bullets spin clockwise.
+2:47 - player was hit by bullet.
+2:56 - player was hit by bullet.
+3:06 - second attack ends. Third attack starts. Reset the 45-second timer. Final boss start firing.
+     - an enhanced version of the first attack: two rings of blue
+       bullets in opposite directions, and the red bullets are spawned 3-way (approximately 120
+       degrees from each other) with one spawning point for about 2 seconds.
+     - random movement
+3:52 - finishing third attack. Reset the 45-second timer. Bouns attack starts.
+     - 8 yellow randomly orientated lasers formed at final boss's location and moving outward in each
+       of its own direction, slow speed.
+     - a lot of red bullets formed around final boss's location (like a circle) and moving outward.
+     - repeating between two firing form. Random movement.
+4:37 - Fight ends.
+* Player action time line *
+0:13 ~ 02:46: Player dodging the attacks
+2:47: the center of the player character (a red heart) had been hitted, player died, scattered seven red squares, player character disappeared
+2:48: player character appeared, came out from bottom to the origin. It blinked blue and black for 5 seconds
+2:48 ~ 02:54: Player dodging the attacks
+2:55: the center of the player character (a red heart) had been hitted, player died, scattered seven red squares, player character disappeared
+2:57: player character appeared, came out from bottom to the origin. It blinked blue and black for 5 seconds
+2:59: player character took some of the red squares that the character scattered when last time it died. Two rolling "Bagua" symbols appeared and each accompanied at left and right side of the player character
+3:38: the center of the player character (a red heart) had been hitted, player died, scattered seven red squares, player character disappeared
+3:39: player character appeared, came out from bottom to the origin. It blinked blue and black for 5 seconds
+3:39 ~ 03:42: Player dodging the attacks
+3:42 ~ 03:45: player character took one of the red squares that the character scattered when last time it died. No "Bagua" this time
+3:45: the center of the player character (a red heart) had been hitted, player died, scattered seven red squares, player character disappeared
+3:45 ~ 04:05: Player dodging the attacks
+4:05: the center of the player character (a red heart) had been hitted, player died, scattered seven red squares, player character disappeared
+4:06: player character appeared, came out from bottom to the origin. It blinked blue and black for 5 seconds
+4:06 ~ 04:37: Player dodging the attacks
+
+#Define:
+Player - One player
+       - move in the corresponding 8 directions.
+       - Its movements are confined in a certain area on screen.
+       - No firing, only dodging.
+Regular Enemies - small monster
+                  ~ fire one bullet or none.
+                - big monster
+                  ~ fire 4 times, each time fire 3 waves of bullets (1 bullet, 2 bullets, and 3 bullets),
+                    toward player's location.
+                - appear during regular stage.
+Mid Boss - 26 seconds fight.
+         - two firing form in a fixed pattern
+            ~ 3 waves, 6 bullets each wave, bullets fire from mid boss's location and downward
+              and dispersing, low speed.
+            ~ 3 waves, 16 bullets each wave, firing from its location and evenly dispersing outward around mid boss.
+         - two big monsters appear to assist near end of the fight.
+         - moving between 3 spots
+Final Boss - three 45-second attacks with a Bouns attack
+              ~ attack 1 - firing two forms of bullet, red and blue
+                ~ red bullets are spawned by two out-spiraling “spawning points” which fires bullets for about one second.
+                ~ red bullets are also sniping bullets.
+                ~ blue bullet - spread in a circle first, and then starts to move in an out-spiraling trajectory.
+              ~ attack 2 - firing red and blue bullets.
+                ~ forming a circle of bullets (blue, red) around the final boss, and then spinning while moving outward.
+                ~ blue bullets spin anti-clockwise, red bullets spin clockwise.
+              ~ attack 3 - an enhanced version of the first attack: two rings of blue
+                bullets in opposite directions, and the red bullets are spawned 3-way (approximately 120
+                degrees from each other) with one spawning point for about 2 seconds.
+              ~ Bouns attack
+                  ~ 8 yellow randomly orientated lasers formed at final boss's location and moving outward in each
+                    of its own direction, slow speed.
+                  ~ a lot of red bullets formed around final boss's location (like a circle) and moving outward.
+                  ~ repeating between two firing form.
+          - Random movement.
